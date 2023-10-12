@@ -1,1 +1,2 @@
 this is cool feature
+added more functionalities on features 
